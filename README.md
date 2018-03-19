@@ -1,5 +1,9 @@
 # cyberNote
-Work in progress.
+Work in progress. This is just a proposal.
+
+We still need to decide on a project structure, license and the technologies we want to use.
+
+It will be inspired by OneNote, but built much better.
 
 ## Functionality
  - Platform independent (Desktop and Mobile)
